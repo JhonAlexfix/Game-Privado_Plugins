@@ -1,4 +1,3 @@
-# Game-Privado_Plugins
 L4D2 Items Carry Pass Extended
 ==============================
 
